@@ -66,16 +66,16 @@ Space mission data is inherently complex: multi-source, multi-format, and laden 
 ## 🎯 Project Objectives
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                     PROJECT OBJECTIVES                          │
-│                                                                 │
-│  1. 📥  Data Integration    →  Consolidate multi-source data    │
-│  2. 🧹  Data Cleansing      →  Ensure quality and consistency   │
-│  3. 📊  Visualization       →  Uncover patterns and trends      │
-│  4. 🔬  Diagnostic Analysis →  Identify failure root causes     │
-│  5. 🔮  Predictive Modelling→  Forecast mission parameters      │
-│  6. ⚡  Streamlined EDA     →  Enable faster insight extraction  │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                     PROJECT OBJECTIVES                           │
+│                                                                  │
+│  1. 📥  Data Integration     →  Consolidate multi-source data    │ 
+│  2. 🧹  Data Cleansing       →  Ensure quality and consistency   │
+│  3. 📊  Visualization        →  Uncover patterns and trends      │
+│  4. 🔬  Diagnostic Analysis  →  Identify failure root causes     │
+│  5. 🔮  Predictive Modelling →  Forecast mission parameters      │
+│  6. ⚡  Streamlined EDA       →  Enable faster insight extraction │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
